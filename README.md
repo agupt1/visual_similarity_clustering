@@ -7,4 +7,4 @@
 - 02.get_embeddings: The purpose of this script is to generate image embeddings which act as the vector representations of the image attributes.
 - 03.get_visual_similarity_clusters.ipynb: The purpose of this script is to cluster the image embeddings from the previous step into visually similar groups.
 
-The project relies on publicly available dataset with documentation here.
+The project relies on publicly available fashion dataset with documentation [here](https://www.kaggle.com/datasets/nitinsss/fashion-dataset-with-over-15000-labelled-images).
